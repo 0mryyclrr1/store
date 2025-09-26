@@ -11,5 +11,7 @@ void main() {
         IO.println("i = " + i);
     }
     System.out.println("Hello World!");
+    System.out.println("Hello Github");
+
 
 }
